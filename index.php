@@ -1,6 +1,7 @@
 <?php
 
 //satu baris komentar
+//komentarnya ini  ditambahi oleh hassan massaty
 
 
 echo 'diedit oleh K3513046, muhammad hassan';
