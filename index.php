@@ -1,7 +1,7 @@
 <?php
 
 //satu baris komentar
-//dua baris komentar
+
 
 echo 'diedit oleh K3513046, muhammad hassan';
 
